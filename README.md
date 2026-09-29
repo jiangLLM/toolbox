@@ -6,6 +6,7 @@
 
 | 名称 | 用途 | 收录方式 |
 | --- | --- | --- |
+| [ICLR · Search Self-Play 配图提示词](prompts/iclr-search-self-play.md) | 搜索自博弈、验证门控和共享策略更新 | 原始长截图与文字版 |
 | [Writing Science · Joshua Schimel](tools/writing-science.md) | 科研写作参考书 | PDF 原文件与来源说明 |
 | [paper2anything](tools/paper2anything.md) | 把论文转成 slides、海报、项目主页和传播材料 | 上游项目收藏 |
 | [开发提效小 tips · LofiSu](tools/lofi-development-tips.md) | 开发工具、AI / Prompt 工作流、UI 组件和求职资源 | Markdown 原文快照与主题索引 |
@@ -31,6 +32,7 @@
 
 [论文配图提示词目录](prompts/README.md)：保存原始截图和可复制的提示词，方便以后制作论文示意图时查找。
 
+- [ICLR · Search Self-Play 配图](prompts/iclr-search-self-play.md)
 - [AAAI 分层技能挖掘配图](prompts/aaai-skill-mining.md)
 - [ICML 多模块框架图](prompts/icml-system-diagram.md)
 - [ICLR · EventBridge-RL 配图](prompts/iclr-eventbridge-rl.md)
