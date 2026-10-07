@@ -6,6 +6,7 @@
 
 | 名称 | 用途 | 收录方式 |
 | --- | --- | --- |
+| [Does My Writing Flow?](resources/writing/does-my-writing-flow.md) | 读者视角、反向提纲、段落结构与过渡词 | 用户提供的 Markdown 全文 |
 | [ICLR · Search Self-Play 配图提示词](prompts/iclr-search-self-play.md) | 搜索自博弈、验证门控和共享策略更新 | 原始长截图与文字版 |
 | [Writing Science · Joshua Schimel](tools/writing-science.md) | 科研写作参考书 | PDF 原文件与来源说明 |
 | [paper2anything](tools/paper2anything.md) | 把论文转成 slides、海报、项目主页和传播材料 | 上游项目收藏 |
